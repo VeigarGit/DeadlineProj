@@ -1,8 +1,8 @@
 # Dockerman Deadline System
 FROM python:3.12-slim
 
-LABEL maintainer="Dockerman"
-LABEL description="Sistema de deadlines com contagem regressiva contínua"
+LABEL maintainer="DockermanProj"
+LABEL description="Sistema de deadlines com contagem regressiva contínua Projetos"
 
 WORKDIR /app
 
